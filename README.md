@@ -1,0 +1,2 @@
+# logprogramming
+Exercícios de Python
